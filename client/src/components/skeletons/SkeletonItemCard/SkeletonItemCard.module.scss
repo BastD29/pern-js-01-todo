@@ -1,0 +1,12 @@
+.skeleton-item-card {
+  display: flex;
+  flex-direction: column;
+
+  color: lightgray;
+  border: solid 1px lightgray;
+  padding: 10px;
+
+  h3 {
+    margin-bottom: 10px;
+  }
+}
